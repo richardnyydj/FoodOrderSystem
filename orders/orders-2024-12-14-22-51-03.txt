@@ -1,0 +1,21 @@
+==== Orders Details ====
+Order ID: 17341770604767752
+Order Time: 2024-12-14T22:51:00.480032
+Order Status PROCESSING
+Menu Items:
+漢堡-50.0-3
+========================
+==== Orders Details ====
+Order ID: 17341766495305151
+Order Time: 2024-12-14T22:44:09.534247
+Order Status COMPLETED
+Menu Items:
+漢堡-50.0-2
+========================
+==== Orders Details ====
+Order ID: 17341768387383468
+Order Time: 2024-12-14T22:47:18.743206
+Order Status COMPLETED
+Menu Items:
+漢堡-50.0-1
+========================

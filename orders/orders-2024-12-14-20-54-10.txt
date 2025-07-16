@@ -1,0 +1,7 @@
+==== Orders Details ====
+Order ID: 17341700415149761
+Order Time: 2024-12-14T20:54:01.518495
+Order Status WAITING
+Menu Items:
+漢堡-50.0-1
+========================

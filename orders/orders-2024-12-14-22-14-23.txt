@@ -1,0 +1,42 @@
+==== Orders Details ====
+Order ID: 17341747416815801
+Order Time: 2024-12-14T22:12:21.683345
+Order Status COMPLETED
+Menu Items:
+漢堡-50.0-1
+========================
+==== Orders Details ====
+Order ID: 17341747445372862
+Order Time: 2024-12-14T22:12:24.537479
+Order Status COMPLETED
+Menu Items:
+漢堡-50.0-1
+========================
+==== Orders Details ====
+Order ID: 17341747770896541
+Order Time: 2024-12-14T22:12:57.089958
+Order Status COMPLETED
+Menu Items:
+漢堡-50.0-1
+========================
+==== Orders Details ====
+Order ID: 17341747828632885
+Order Time: 2024-12-14T22:13:02.863457
+Order Status COMPLETED
+Menu Items:
+漢堡-50.0-1
+========================
+==== Orders Details ====
+Order ID: 17341748285049092
+Order Time: 2024-12-14T22:13:48.505105
+Order Status COMPLETED
+Menu Items:
+漢堡-50.0-1
+========================
+==== Orders Details ====
+Order ID: 17341748333180377
+Order Time: 2024-12-14T22:13:53.319199
+Order Status COMPLETED
+Menu Items:
+漢堡-50.0-1
+========================
